@@ -42,7 +42,7 @@ Percentage of default for 60 months’ loan term is higher than those apply for 
 
 ## Models Traning and Testing
 
-Logistic Regression, Support Vector Machine, Decision Tree and Random Forest been selected to perform classification in this project. Comparison been made to identify most accurate algorithm. Decision Tree been selected as baseline model since we can't find benchmark model for this research. 
+Logistic Regression, Support Vector Machine, Decision Tree and Random Forest been selected to perform classification in this project. Comparison been made to identify most accurate algorithm. Decision Tree been selected as baseline model since we can't find benchmark model for this research and decision tree is a popular algorithm for loan default classification problem. 
 
 ![alt text](https://github.com/GuanSoh/Housing-Loan-Default-Risk-using-Machine-Learning/blob/main/Image/Performance%20of%20each%20models.png)
 
