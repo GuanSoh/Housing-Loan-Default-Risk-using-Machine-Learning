@@ -24,3 +24,7 @@ Dataset used in this research is Lending Club Loan Data from Kaggle. The dataset
 The data preprocessing part include missing values handling, outlier treatment, remove features could cause data leakage. 
 
 ## Exploratory Data Analysis
+
+![alt text](https://github.com/GuanSoh/Housing-Loan-Default-Risk-using-Machine-Learning/blob/main/Image/EDA_grade.png)
+
+
